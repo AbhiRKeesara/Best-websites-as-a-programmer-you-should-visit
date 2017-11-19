@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-[![Build Status](https://travis-ci.org/AbhiRKeesara/Best-websites-as-a-programmer-you-should-visit.svg?branch=master)]
+[![Build Status](https://api.travis-ci.org/AbhiRKeesara/Best-websites-as-a-programmer-you-should-visit.svg?branch=master)](https://travis-ci.org/AbhiRKeesara/Best-websites-as-a-programmer-you-should-visit.svg?branch=master)
 
 # Best-websites-as-a-programmer-should-visit
 Some useful websites for programmers.
@@ -44,7 +44,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Stack Overflow](https://stackoverflow.com) : subscribe to their weekly newsletter and any other topic which you find interesting
 - [Quora](https://www.quora.com) : A place to share knowledge and better understand the world
 - [Learn Anything](https://learn-anything.xyz) : Community curated knowledge graph of best paths for learning anything
-- [devRant](https://www.devrant.io) : Community where you can rant and release your stress
+- [devRant](https://www.devrant.com) : Community where you can rant and release your stress
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 
 
@@ -58,7 +58,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [GSMArena.com](http://www.gsmarena.com) : news related to latest mobile phones and android.
+- [GSMArena.com](http://www.gsmarena.com/) : news related to latest mobile phones and android.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -66,7 +66,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 
 
 ## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [freeCodeCamp](https://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
@@ -88,7 +88,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 
 
 ## General Coding advice
-- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be ) :  What I’ve learned from teaching others
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) :  What I’ve learned from teaching others
 - [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) :  The Codist Header Lessons From A Lifetime Of Being A Programmer  
 - [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531) : The Principles of Good Programming
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : The Principles of Good Programming
@@ -112,7 +112,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
 - [Stuff you need to Code Better!](http://codebetter.com)
-- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+- [Directory of Online CS Courses](https://github.com/ossu/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
 
@@ -132,12 +132,11 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [A Collection of Quant Riddles With Answers](http://puzzles.nigelcoldwell.co.uk)
 - [Aptitude Questions and Answers](http://www.indiabix.com) : Quant and aptitude preparation
 - [Interview Archives - Java Honk](http://javahonk.com/category/interview/)
-- [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 - [Algorithm design canvas](https://www.hiredintech.com/algorithm-design))
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/#)
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet)
 - [How to interview](http://kelukelu.me/interview/index.html)
-- [How to Ace an Algorithms Interview](http://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview)
 - [Delightful Puzzles](http://gurmeet.net/puzzles/)
 - [visualising data structures and algorithms through animation](https://visualgo.net/en)
 - [Here's How to Prepare for Tech Interviews • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
@@ -146,11 +145,11 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.in)
 - [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : Here's a pretty big list of programming interview questions I compiled while studying for big 4 interviews. I think you guys will find it useful! •
-- [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+- [Interviewing At Jane Street](https://blog.janestreet.com/interviewing-at-jane-street/)
 - [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)
 - [Summer Internship: The Ultimate Guide](http://eulercoder.me/blog/career/Summer-Internship-the-ultimate-guide)
 - [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)
-- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)
+- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](https://lifehacker.com/tag/job-interviews)
 - [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)
 - [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)
 - [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
@@ -171,7 +170,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Programming Language Concepts: Lecture Notes](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) : OOPs concepts and programming language concepts.
 - [We Help Coders Get Hired](https://www.hiredintech.com/app) : website offering courses on system design, interview strategies, soft skills etc
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
-- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 - [Freshers Interviews](http://placementsindia.blogspot.in)
 - [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
 - [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : logic puzzles and riddles
@@ -228,17 +227,17 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Java Lecture Notes](http://www.cafeaulait.org/course/)
 - [Learning Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html)
-- [Understanding JVM Internals](http://www.cubrid.org/blog/understanding-jvm-internals)
+- [Understanding JVM Internals](https://www.cubrid.org/blog/understanding-jvm-internals)
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/)
-- [Welcome to JavaWorld.com](http://www.javaworld.com)
+- [Welcome to JavaWorld.com](https://www.javaworld.com/)
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
-- [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com)
+- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com/)
 - [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
-- [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
+- [what-is-garbage-collection](https://plumbr.io/handbook/what-is-garbage-collection) : Demystify the garbage collection
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
 - [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
@@ -286,9 +285,8 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : Artificial Intelligence and deep learning tutorials videos
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : great videos to watch for web developers, mobile developers and those interested in some of Netflix's tech stack
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
-- [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
+- [Fun Fun Function](hhttps://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos) : A weekly series from Mattias Petter Johansson on an assortment of programming topics, including some not directly related to coding.
 -[JS Conf](https://www.youtube.com/user/jsconfeu/videos) : JSConf is a series of JavaScript conferences from around the world.Topics include JavaScript, HTML5, CSS, node.js, robotics, etc.
--[The New boston](https://www.youtube.com/user/thenewboston/videos) : Tons of sweet computer related tutorials.
 -[Selenium Automation tutorials](https://www.youtube.com/user/MrBantu50/videos) : Covers all the topics related automation using selenium and appium.
 
 
@@ -303,7 +301,6 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 - [Dive into the byte code](https://www.wikiwand.com/en/Java_bytecode)
-- [Data Structure Map](https://fkcd.ca/b7d.svg)
 - [A Gentle Introduction To Graph Theory](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
 - [A programmer friendly language that compiles to Lua.](http://moonscript.org)
@@ -312,8 +309,8 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 
 ## Podcasts
 - [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net)
-- [MS Dev Show](http://msdevshow.com)
-- [The Cynical Developer](http://cynicaldeveloper.com)
+- [MS Dev Show](https://msdevshow.com/) : machine learning with jennifer marsman
+- [The Cynical Developer](https://cynicaldeveloper.com/) : The weekly podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
@@ -348,16 +345,15 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
 - [Learn UNIX in 10 minutes](http://freeengineer.org/learnUNIXin10minutes.html)
 - [The Bash Guide](http://guide.bash.academy) : very good guide for learning the Bash Shell
-- [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
+- [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) : good resource for learning Linux
 - [UNIX Tutorial - Introduction](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
 - [Linux Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Learning the shell.](http://linuxcommand.org/learning_the_shell.php)
 - [Dynamic programming - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp) : very good resource if want to learn how to solve DP problems.
 - [Deep C](https://www.slideshare.net/olvemaudal/deep-c) : very good presentation on C language
 - [C programming language Frequently Asked Questions](http://c-faq.com/index.html)
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter wise course notes according to Galvin's book
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
-- [Introduction to C Programming](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+- [Introduction to C Programming](https://www.le.ac.uk/users/rjm1/cotter/index.htm)
 - [MySQL Essentials](http://www.techotopia.com/index.php/MySQL_Essentials)
 - [http://www.mysqltutorial.org/](http://www.mysqltutorial.org)
 - [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/) : contains articles on various topics
@@ -401,9 +397,8 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Archived Problems - Project Euler](https://projecteuler.net/archives)
 - [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : past contest problems for practice
 - [Sphere Online Judge (SPOJ)](http://www.spoj.com)
-- [Art of Problem Solving](https://artofproblemsolving.com)
 - [Riddles.io AI Games](https://www.riddles.io) : Compete with your bot and dominate the leaderboards!
-- [Codingame](https://www.codingame.com) : Learn coding through games and challenges!
+- [Codingame](https://www.codingame.com/start) : Learn coding through games and challenges!
 - [Codewars](https://www.codewars.com) : Rank up by completing code kata
 - [Codefights](https://codefights.com) : Test your coding skills
 
@@ -419,7 +414,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 ## Video Tutorials
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
-- [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
+- [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good tutorials related many topics
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
 - [XDA-University - Helping You Learn Android Development](https://forum.xda-developers.com/general/xda-university)
@@ -443,7 +438,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
-- [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
+- [Eli Bendersky](https://eli.thegreenplace.net/) : everything from Python to LLVM
 - [Joel on Software](https://www.joelonsoftware.com)
 - [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com)
 - [Programming in the 21st Century](http://prog21.dadgum.com)
@@ -468,19 +463,19 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Math ∩ Programming](https://jeremykun.com)
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com)
-- [Daedtech.com](http://www.daedtech.com) : Stories about software
+- [Daedtech.com](https://www.daedtech.com/) : Stories about software
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [rudhakar Rayavaram](http://sudhakar.online) :  Sudhakar Rayavaram Blog's
 
 ## Open Source Websites
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
-- [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
+- [Google Code](https://code.google.com/projecthosting/) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
 - [Launch Pad](https://launchpad.net) : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.
 - [Google Open Source](https://opensource.google.com) : Google Open Source
 - [Red Hat Developer](https://developers.redhat.com) : The world's leading provider of open source solutions
 - [Open Source](https://opensource.com) : Open Source
-- [Google Summer of Code](https://summerofcode.withgoogle.com) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.
+- [Google Summer of Code](https://summerofcode.withgoogle.com/archive/) : Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project during their break from school.
 - [Open Source Web Design](http://www.oswd.org) : Open Source Web Design is a platform for sharing standards-compliant free web design templates. We give web publishers a voice through good design.
 - [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) : The Winter of Security (MWOS) is a program organized by Mozilla's Security teams to involve students with Security projects. Students who have to perform a semester project as part of their university curriculum can apply to one of the MWOS project.
 - [Eclipse Lab](http://www.eclipse.org/org/foundation/eclipselabs/faq.php) : Eclipse Labs is a community of open source projects that build technology based on the Eclipse platform. It provides the infrastructure services typically required by open source projects, such as code repositories, bug tracking, project web sites/wiki. Eclipse Labs is hosted by Google Code Project Hosting, so it will be very familiar to developers already using Google Code Project Hosting.
