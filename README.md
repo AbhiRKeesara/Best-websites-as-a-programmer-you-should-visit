@@ -58,7 +58,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
 - [The Verge](https://www.theverge.com) : More product oriented tech news
 - [Recode](https://www.recode.net) : Tech news that focuses on the business of Silicon Valley
-- [GSMArena.com](http://www.gsmarena.com/) : news related to latest mobile phones and android.
+- [GSMArena.com](http://www.gsmarena.com) : news related to latest mobile phones and android.
 - [product hunt](https://www.producthunt.com) : Discover your next favorite thing
 - [AlternativeTo](https://alternativeto.net) : Crowdsourced software recommendations
 - [Better Dev Links](https://betterdev.link) : Weekly links to help you become a better developer
@@ -66,7 +66,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 
 
 ## Coding practice for beginners
-- [freeCodeCamp](https://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+- [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 - [Programming by Doing](http://programmingbydoing.com) : very good site for those who want to start with absolute basics
 - [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
@@ -229,13 +229,13 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners](http://www.artima.com/insidejvm/ed2/index.html)
 - [Understanding JVM Internals](https://www.cubrid.org/blog/understanding-jvm-internals)
 - [How Garbage Collection Works](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/)
-- [Welcome to JavaWorld.com](https://www.javaworld.com/)
+- [Welcome to JavaWorld.com](https://www.javaworld.com)
 - [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)
 - [Netbeans Keyboard Shortcuts](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
 - [IntelliJ Keyboard Shortcuts](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : Keyboard shortcuts to enhance your productivity when working in IntelliJ.
 - [XyzWs Java FAQs](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
 - [Search Open Source Java API](http://www.docjar.com) : view source of java library and learn how things are implemented.
-- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com/)
+- [JournalDev - Java, Java EE, Android, Web Development Tutorials](https://www.journaldev.com)
 - [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS)
 - [what-is-garbage-collection](https://plumbr.io/handbook/what-is-garbage-collection) : Demystify the garbage collection
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
@@ -309,8 +309,8 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 
 ## Podcasts
 - [Coding Blocks - Learning principles, patterns and better practices on the go](http://www.codingblocks.net)
-- [MS Dev Show](https://msdevshow.com/) : machine learning with jennifer marsman
-- [The Cynical Developer](https://cynicaldeveloper.com/) : The weekly podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
+- [MS Dev Show](https://msdevshow.com) : machine learning with jennifer marsman
+- [The Cynical Developer](https://cynicaldeveloper.com) : The weekly podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.
 - [Software Engineering Radio](http://www.se-radio.net) : A podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast.
 - [JavaScript Jabber](https://devchat.tv/js-jabber) : A weekly discussion about JavaScript, front-end development, community, careers, and frameworks.
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) : A podcast for developers designed to fit inside your tea break.
@@ -438,7 +438,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Coding Horror](https://blog.codinghorror.com) : one the best coding blog
 - [WildMl](http://www.wildml.com) : A blog for machine learning.
 - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org) : blog on Python and open source
-- [Eli Bendersky](https://eli.thegreenplace.net/) : everything from Python to LLVM
+- [Eli Bendersky](https://eli.thegreenplace.net) : everything from Python to LLVM
 - [Joel on Software](https://www.joelonsoftware.com)
 - [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com)
 - [Programming in the 21st Century](http://prog21.dadgum.com)
@@ -463,7 +463,7 @@ Here is a non exhaustive list of some sites you should visit, this list will get
 - [Math ∩ Programming](https://jeremykun.com)
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
 - [Coding Geek - A blog about IT, programming and Java](http://coding-geek.com)
-- [Daedtech.com](https://www.daedtech.com/) : Stories about software
+- [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR related stuff
 - [rudhakar Rayavaram](http://sudhakar.online) :  Sudhakar Rayavaram Blog's
 
